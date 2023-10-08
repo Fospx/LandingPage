@@ -123,12 +123,23 @@ button.sign-up {
 
 }
 
-.bluebox-containers * {
+.bluebox-containers .box-one, 
+.box-two, 
+.box-three, 
+.box-four {
     border: 1px solid red;
     width: 150px;
     height: 150px;
     border-radius: 10px;
 }
 
+.text-one,
+.text-two,
+.text-three,
+.text-four {
+    width: 152px;
+    text-wrap: wrap;
+    text-align: center;
+}
 
 
