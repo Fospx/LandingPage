@@ -44,10 +44,16 @@ body {
 
 .left-box {
     border: 5px solid green;
+    display: flex;
+    height: 200px;
+    width: 450px;
 }
 
 
 .right-box {
     border: 5px solid blue;
+    display: flex;
+    height: 250px;
+    width: 500px;
 }
 
