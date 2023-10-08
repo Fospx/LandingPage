@@ -76,6 +76,10 @@ button {
     border-radius: 8px;
 }
 
+button.sign-up {
+    font-weight: bold;
+}
+
 
 .right-box {
     border: 5px solid blue;
