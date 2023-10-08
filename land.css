@@ -101,3 +101,16 @@ button.sign-up {
     color: white;
 }
 
+.second-container {
+    height: 400px;
+}
+
+.second-container .header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+
+
