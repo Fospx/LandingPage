@@ -12,6 +12,9 @@ body {
     padding: 16px;
     margin-left: 430px;
     margin-right: 430px;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: 0;
 }
 
 
