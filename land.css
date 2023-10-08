@@ -67,10 +67,12 @@ body {
 .left-box .subhead {
     font-size: 48px;
     font-weight: bolder;
+    color: #F9FAF8;
 }
 
 .left-side .subtext {
     font-size: 18px;
+    color: #E5E7EB;
 }
 
 button {
