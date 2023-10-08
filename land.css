@@ -117,10 +117,14 @@ button.sign-up {
 .bluebox-containers {
     border: 2px solid blue;
     height: 500px;
+    display: flex;
+
 }
 
 .bluebox-containers * {
-    border: 2px solid red;
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
 }
 
 
