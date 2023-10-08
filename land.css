@@ -97,5 +97,7 @@ button.sign-up {
     text-align: center;
     align-items: center;
     justify-content: center;
+    background-color: grey;
+    color: white;
 }
 
