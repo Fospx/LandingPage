@@ -17,5 +17,13 @@ body {
     flex-basis: 0;
 }
 
+.header ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    gap: 16px;
+}
+
 
 
