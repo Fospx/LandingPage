@@ -32,10 +32,12 @@ body {
 .header .left-side {
     font-size: 24px;
     font-weight: bold;
+    color: #F9FAF8;
 }
 
 .header .right-side {
     font-size: 18px;
+    color: #E5E7EB;
 }
 
 .second-box {
