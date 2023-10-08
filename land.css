@@ -114,5 +114,14 @@ button.sign-up {
     font-weight: bolder;
 }
 
+.bluebox-containers {
+    border: 2px solid blue;
+    height: 500px;
+}
+
+.bluebox-containers * {
+    border: 2px solid red;
+}
+
 
 
