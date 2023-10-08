@@ -83,7 +83,10 @@ button {
 }
 
 button.sign-up {
+    background: #3882F6;
+    border: 1px solid #3882F6;
     font-weight: bold;
+    color: white;
 }
 
 
