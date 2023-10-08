@@ -56,6 +56,11 @@ body {
     list-style: none;
 }
 
+.left-box .subhead {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
 
 .right-box {
     border: 5px solid blue;
