@@ -42,4 +42,12 @@ body {
     display: flex;
 }
 
+.left-box {
+    border: 5px solid green;
+}
+
+
+.right-box {
+    border: 5px solid blue;
+}
 
