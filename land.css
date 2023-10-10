@@ -101,6 +101,12 @@ button.sign-up {
     color: white;
 }
 
+img {
+    height: 250px;
+    width: 500px;
+    object-fit: fill;
+}
+
 .second-container {
     height: 400px;
 }
