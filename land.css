@@ -1,5 +1,5 @@
 body {
-    height: 200vh;
+    height: 185vh;
     margin: 0;
     font-family: Roboto, sans-serif;
     display: flex;
@@ -157,13 +157,40 @@ button.sign-up {
 
 .textbox {
     font-size: 36px;
-    margin-right: 500px;
-    margin-left: 495px;
+    margin-right: 570px;
+    margin-left: 515px;
+    font-style: italic;
+    font-weight: lighter;
 }
 
 div.author-container {
     display: flex;
     justify-content: center;
-    margin-left: 425px;
+    margin-left: 480px;
     font-weight: bold;
+    font-size: 20px;
+}
+
+.fourth-container {
+    border: 2px solid brown;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.blue-container {
+    display: flex;
+    border: 2px solid lightblue;
+    height: 150px;
+    width: 100rem; 
+    align-items: center;
+}
+
+.randotext ul {
+    list-style: none;
+    padding: 0;
+    margin: 200px;
+    font-size: 20px;
 }
