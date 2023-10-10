@@ -1,5 +1,5 @@
 body {
-    height: 185vh;
+    height: 190vh;
     margin: 0;
     font-family: Roboto, sans-serif;
     display: flex;
@@ -172,7 +172,7 @@ div.author-container {
 }
 
 .fourth-container {
-    border: 2px solid brown;
+    /* border: 2px solid brown; */
     height: 350px;
     display: flex;
     justify-content: center;
@@ -182,10 +182,18 @@ div.author-container {
 
 .blue-container {
     display: flex;
-    border: 2px solid lightblue;
+    border: 2px solid #3882F6;
     height: 150px;
-    width: 100rem; 
+    width: 80rem; 
     align-items: center;
+    background: #3882F6;
+    border-radius: 10px;
+}
+
+li.boldthis {
+    font-weight: bold;
+    color: white;
+    font-size: 25px;
 }
 
 .randotext ul {
@@ -193,4 +201,13 @@ div.author-container {
     padding: 0;
     margin: 200px;
     font-size: 20px;
+    color: white;
+}
+
+button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
 }
