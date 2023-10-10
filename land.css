@@ -7,7 +7,7 @@ body {
 }
 
 .first-container {
-    background-color: #1F2937;
+    background-color: #591499;
 }
 
 .header {
@@ -83,8 +83,8 @@ button {
 }
 
 button.sign-up {
-    background: #3882F6;
-    border: 1px solid #3882F6;
+    background: #8321df;
+    border: 1px solid #8321df;
     font-weight: bold;
     color: white;
 }
@@ -127,7 +127,7 @@ button.sign-up {
 .box-two, 
 .box-three, 
 .box-four {
-    border: 3px solid #3882F6;
+    border: 3px solid #591499;
     width: 150px;
     height: 150px;
     border-radius: 10px;
@@ -151,7 +151,7 @@ button.sign-up {
     margin-top: 50px;
     /* border: 1px solid red; */
     height: 400px;
-    background-color: #E5E7EB;
+    background-color: #d6b6f3;
 }
 
 
@@ -182,17 +182,17 @@ div.author-container {
 
 .blue-container {
     display: flex;
-    border: 2px solid #3882F6;
+    border: 2px solid #591499;
     height: 150px;
     width: 80rem; 
     align-items: center;
-    background: #3882F6;
+    background: #591499;
     border-radius: 10px;
 }
 
 li.boldthis {
     font-weight: bold;
-    color: white;
+    color: #F9FAF8;
     font-size: 25px;
 }
 
@@ -201,13 +201,13 @@ li.boldthis {
     padding: 0;
     margin: 200px;
     font-size: 20px;
-    color: white;
+    color: #F9FAF8;
 }
 
 button {
-    background-color: #3882F6;
-    border: 2px solid white;
+    background-color: #591499;
+    border: 2px solid #F9FAF8;
     font-weight: bold;
-    color: white;
+    color: #F9FAF8;
     cursor: pointer;
 }
